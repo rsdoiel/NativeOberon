@@ -1,0 +1,119 @@
+[ Popups | Applications | Documentation ]
+
+Desktops.OpenDoc ^  (or MM-MR)   Desktops.Open Oberon.Desk
+	http://www.oberon.ethz.ch/native/	Native Oberon Home
+	ftp://ftp.inf.ethz.ch/pub/ETHOberon/	Oberon ftp site
+	mailto:oberon@inf.ethz.ch	Oberon Helpline
+	news:comp.lang.oberon	Usenet Newsgroup
+
+	System.CopyFiles => ~
+	System.RenameFiles => ~
+	System.DeleteFiles ~
+
+Script.Open System.Text
+  click middle mouse button (or double left) 
+  on Script.Open above for introductory text
+
+Builder.Compile *
+Builder.Compile \f *
+Builder.Compile \w *
+Builder.Compile \s *
+Builder.MarkErrors ^ *
+Builder.NextError
+Builder.ClearErrors *
+Watson.ShowObj ^
+Watson.ShowDef ^
+Watson.ShowDef *
+Columbus.Inspect ~
+Decoder.Decode ^
+Decoder.Find ^ *
+TextDocs.Show ^
+System.Directory ^
+System.ShowModules
+System.State ^
+System.Free  ^
+System.ShowCommands ^
+System.ShowLibraries
+System.FreeLibraries ^
+System.ShowTasks
+System.OpenKernelLog
+System.Time
+System.Collect
+System.Watch
+System.Recall
+Directory- System.Directory *.Arc
+*.Bak
+*.Def
+*.Fnt
+*.Graph
+*.Lib
+*.Mod
+*.Obj
+*.Panel
+*.Pict
+*.Scn.Fnt
+*.Text
+*.Tool
+*.zip
+Temp*
+SYS:
+
+EditTools EditTools.IncSize 2	EditTools.IncSize -2
+EditTools.OpenUnix ^	EditTools.StoreUnix *
+EditTools.OpenAscii ^	EditTools.StoreAscii *
+EditTools.OpenUnicode ^	EditTools.StoreUnicode *
+EditTools.Words *	count words etc.
+EditTools.ShowAttrs ^	show text attributes
+EditTools.RemoveObjects *	delete all objects
+EditTools.ChangeStyle	? => . ~  plain
+EditTools.ChangeStyle	? => i ~  italic
+EditTools.ChangeStyle	? => b ~  bold
+EditTools.ChangeFamily	? => Courier ~
+EditTools.ChangeFamily	? => Oberon ~
+EditTools.ChangeFamily	? => Syntax ~
+
+TextDocs.SearchDiff ^^	skip equal text stretch
+TextDocs.SearchDiff \w ^^	same + ignore spaces
+TextDocs.Search	search selected text at caret
+TextDocs.Replace	replace with selected text
+TextDocs.ReplaceAll	replace all occurances
+TextDocs.Right	indent selection to right
+TextDocs.Left	indent selection to left
+TextDocs.PrintSetup \hoff \poff ~  print page header: off
+TextDocs.PrintSetup \hon \pon ~  print page header: on
+TextDocs.Recall	recall last deletion
+TextDocs.Show ^	open .Mod file 
+TextDocs.Controls *	toggle control display
+Gadgets.Insert TextStyle ~	insert style control (Ctrl-Enter)
+Gadgets.Insert TextHyperlink ~	insert hyperlink control
+Desktops.OpenDoc Colors.Panel
+Documents.Panel
+Gadgets.Panel
+Libraries.Panel
+ObjExplorer.Panel
+Rembrandt.Panel
+TextDocs.Panel
+Watson.Panel
+Desktops.OpenDoc Zip.Tool AsciiCoder.Tool
+Backup.Tool
+Builder.Tool
+Compiler.Tool
+Compress.Tool
+Decoders.Tool
+Definitions.Tool
+Desktops.Tool
+EditTools.Tool
+FAT.Tool
+FileSystem.Tool
+Gadgets.Tool
+Greek.Tool
+Math.Tool
+Miscellaneous.Tool
+NetSystem.Tool
+Network.Tool
+Outlines.Tool
+Partitions.Tool
+SamplePrograms.Tool
+TextDocs.Tool
+Tools.Tool
+Zip.Tool

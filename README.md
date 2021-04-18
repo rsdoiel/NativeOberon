@@ -12,11 +12,17 @@ and [install.txt](v2.3.6/install.txt) instructions on installing version [v2.3.6
 using floppy diskettes. The source code in the main directory is based on the files
 in 2.3.7 alpha which is in archival format in the directory [v2.3.7](./v2.3.7/)
 
-I've created a directory calls txt which contains the plain text
-version of the module files converted using a POSIX port of
-Miscellaneous.Mod's oberon to dos translation procedures and then
-some further editing to cleanup extraneous leading and trailing
-bytes that failed to be converted successfully.
+Additions
+---------
+
+I've created a directory calls "txt" which contains the plain text
+versions of the files in the root directory of the Native Oberon
+repository.  They were created using a modified POSIX port of
+Miscellaneous.Mod's oberon-7 using the oberon to dos 
+translation procedures. Further editing to cleanup extraneous 
+byte strings may have introduced errors in the conversion process.
+Consider the originals in Oberon format to be authoritive. 
+RSD 2021-04-18
 
 
 
