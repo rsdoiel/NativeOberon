@@ -12,6 +12,11 @@ and [install.txt](v2.3.6/install.txt) instructions on installing version [v2.3.6
 using floppy diskettes. The source code in the main directory is based on the files
 in 2.3.7 alpha which is in archival format in the directory [v2.3.7](./v2.3.7/)
 
+I've created a directory calls txt which contains the plain text
+version of the module files converted using a POSIX port of
+Miscellaneous.Mod's oberon to dos translation procedures and then
+some further editing to cleanup extraneous leading and trailing
+bytes that failed to be converted successfully.
 
 
 
