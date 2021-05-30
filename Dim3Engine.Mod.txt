@@ -1,9 +1,4 @@
-Oberon10.Scn.FntOberon10b.Scn.Fnt>Y}3S~v]y
-mSO < [mX
-nj}NwR	tX;A"J=
-6N_xs
-g
-b4(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Dim3Engine;	(** portable *)	(* David Ulrich Nov  95 - Mrz 96 *)

@@ -1,5 +1,4 @@
-#Oberon10.Scn.FntOberon10b.Scn.FntOberon10i.Scn.Fnt,Oberon12i.Scn.Fnt##!Q'43XO5<FPKF=AO7>4>BP9@fRM??_,c.MDAN>]B	Q/
-x0'AjKQ(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Freecell;	(** portable *)	(** written by Patrick Saladin  *)

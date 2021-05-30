@@ -1,5 +1,4 @@
-sOberon10.Scn.Fnt)q6_I5786
-7@'((.31MMr+	N(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Diskettes; (** non-portable *)	(* pjm *)

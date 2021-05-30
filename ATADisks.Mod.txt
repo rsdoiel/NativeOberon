@@ -1,13 +1,4 @@
-&Oberon10.Scn.Fnt0<2/A	
-?4ag.-@<\ w&P	"8
-C
-r'- 0; -324M;Y#~&G!yM
- 36
-DG2:L$>?
-V= -MNVIT+S8x$mjcD
-F'e <\8
-
-h	Dok1uQ*W'(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE ATADisks; (** non-portable *)	(* cp/pjm/prk *)

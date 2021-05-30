@@ -1,6 +1,4 @@
-Oberon10.Scn.FntOberon10b.Scn.Fnth
-@|R$+@	V?2	s	
-(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Dim3Paint; (** portable *)	(* David Ulrich Nov  95 - Mrz 96 *)

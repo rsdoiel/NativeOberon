@@ -1,25 +1,4 @@
-
-Oberon10.Scn.Fnt6fFhkIzhOberon10b.Scn.FntPOberon10i.Scn.FntLA
-iE9(R
-?%G1@ "4@	i@
-l)?@T@'Q&+k2
-&0D
-y	1#rHZ,'& 
-h8)$)#2;AO
-@	d2	qZ	?"E
-
-(
-6qMMc B2@ip!
-M	*}
-				80[
-A) \(##P-9E&30Fk
-"
--
-0
-3
-"0781u7~1#0;@%
-%%q	*	_	*	?
-#%ZKL$%&+o(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE BootLinker;	(** non-portable *)	(** JdV / dVdW / pjm / prk *)

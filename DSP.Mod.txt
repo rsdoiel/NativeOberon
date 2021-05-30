@@ -1,16 +1,4 @@
-oOberon10.Scn.FntOberon10i.Scn.Fnt	,
-
-4_$	&3!&3&3	"""*!$#*	
-)
-
-
-
-
-10+'
-!@S`	tP$$2((?@c?Ac*,eC%dp+>4h"\(9{'3YZJLE:0#+us551.((?022!]3
-"`2@6)/5v	: 87IO
-7a/^_s]$Dw%u3Q3
-#&X(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE DSP;	(** non-portable *)	(** tb, SS96 *)

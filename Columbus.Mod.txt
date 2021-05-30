@@ -1,12 +1,4 @@
-TextDocs.NewDocFCColorFlatLockedControlsOrg;BIER`b38Oberon10.Scn.FntOberon10b.Scn.FntOberon12.Scn.Fnt>Oberon10i.Scn.Fnt-&#,^%E-9s*"{=$l1)%;F@6O%%.)
-!,3:IdP)U*?
-
-M>sACo
-'g
-,
-fPD'?EUP0	8/1HF$[$s G"	!<-	9
-61"16#WQ@(/_3Courier10.Scn.Fnt5" I!hZOZAW((K\[!"rBC^!Y6lIw$2w'EJ*ZQ6g@J*ZQ73AAKF[R???I)Y&@IeZP**~AL@\C)F"R<	?I)ZPG33N<)T08R8W`HZ 5(),*'Q/ 	[1>n`S3,N7=L"&s@&MT(0!"K#!^.^.	^U&
-(J	( p),n'xR_F_"bA(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Columbus; (** portable *)	(* PS  *)

@@ -1,5 +1,4 @@
-Oberon10.Scn.FntLLOberon10b.Scn.Fnt
-;Oberon10i.Scn.FntDh82Q=		Cq	FQ5kz(W)jB-N9b@<"S(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Finder;	(** portable *) (* ejz 3.1.95 / jm - adapted for ver 1.6 / ps extended *)

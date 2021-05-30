@@ -1,5 +1,4 @@
-eOberon10.Scn.Fnt
-)55=52&C?;59@1<4[?+/?C,(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 (* Implementation restrictions

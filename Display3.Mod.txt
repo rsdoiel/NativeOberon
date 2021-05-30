@@ -1,9 +1,4 @@
-Oberon10.Scn.FntOberon12.Scn.FntOberon10i.Scn.Fnt
-
-E
-\_fOberon10b.Scn.Fnt	q	.ur
-!`3'8
-uGn,DBC0^b"(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Display3;	(** portable *)	(** jm 17.1.95 / tk 7.12.95*)

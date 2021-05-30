@@ -1,5 +1,4 @@
-Oberon10.Scn.FntOberon10b.Scn.Fnt
-Oberon10i.Scn.FntyR, hMN?(q69N),/.M*M!$P6%*A@'|F8N7;^?C' ^KQ.(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Cards;	(** portable *)	(** written by Patrick Saladin  *)

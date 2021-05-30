@@ -1,4 +1,4 @@
-Oberon10.Scn.Fntm:ZKA)M"^<M?a/SO67CLzs*(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Dialer;	(** non-portable *)	(* 26.08.96 mg *)
