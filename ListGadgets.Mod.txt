@@ -1,31 +1,4 @@
-Oberon10.Scn.FntOberon10i.Scn.FntSOberon10b.Scn.Fnt`
-s	'		
-x;.
-/
-
-}
-\ 
--+>4	y
-
-/	WY
-	mf:1A6$51A
-4
-
-
-"	_"MI
-0%Q
-1$"c/
-%$>"
-%%">53.jMB	#(**	*	L	
-
-	&	4?e@
-
-
-
->
-j
-: 
-2/(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE ListGadgets;	(** portable *)	(* ps,  *)

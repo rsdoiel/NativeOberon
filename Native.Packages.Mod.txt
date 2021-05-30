@@ -1,4 +1,4 @@
-Oberon10.Scn.Fnt>f"1Oberon10b.Scn.Fnt4k]Wtv<N(fm-k& !q(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Packages; (** portable / source: Native.Packages.Mod *)	(* ejz  *)

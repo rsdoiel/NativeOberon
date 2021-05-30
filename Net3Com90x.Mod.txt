@@ -1,8 +1,4 @@
-TextDocs.NewDoc*FCColorFlatLockedControlsOrgBIER`b3Oberon10.Scn.FntrO6&D%D@h+DJ
-ID& ( 2 )&>.I%{E''pJ+$x-
-2M
-	k9=I&E*"6lA>x%:4Y:#/k2]0/pk V+Courier10.Scn.Fnto*	=
-'FF,"C.(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Net3Com90x;

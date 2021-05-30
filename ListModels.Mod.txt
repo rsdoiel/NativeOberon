@@ -1,7 +1,4 @@
-WOberon10.Scn.FntVOberon10b.Scn.Fntg?$$
-IJ82'J7#.F	Oberon10i.Scn.FntPQ 3!
-s>Q>Z(N(]_ 41K8y	2
-D	f)4(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE ListModels;	(** portable *)		(* ps,  *)

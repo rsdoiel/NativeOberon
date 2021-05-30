@@ -1,6 +1,4 @@
-Oberon10.Scn.Fnt!9-"k/y+
-3LW2:#Oberon10b.Scn.Fnt%G	g:F :	+o2^--G
-'	4_1&<%rJ(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE OFSAosFiles;	(* pjm/bsm *)

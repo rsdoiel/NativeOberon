@@ -1,17 +1,4 @@
-uOberon10.Scn.FntOberon10b.Scn.FntOberon10i.Scn.Fnt	X$	
-*%
-
-
-
-0\2%#,+%.1
-P%Oberon14.Scn.Fnt5E:4mF!-(.+J
-&
-	925
-*<1J,+&&LH-%@S>*&4#i7:G 25	t6f7bs1^l!
-UGBh	&"#L,6%D /l
-W=e,""E?f5&+!"MI:
-@LTP(R>0p1G>)9	Z#P	#ZF!! *Q4O	/":8<C<#&
-4=S(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Watson0;	(** portable *)	(** PS	/		/	OP2-Version *)

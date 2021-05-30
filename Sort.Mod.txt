@@ -1,7 +1,4 @@
-<Oberon10.Scn.FntOberon10i.Scn.Fnt
-8
-*
-EOberon10b.Scn.Fnt>(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Sort;	(** portable *)	(*SHML 13.11.91 / mf 13.10.94 / tk adapted for System3 1.6.95*)

@@ -1,11 +1,4 @@
-Oberon10.Scn.FntOberon10b.Scn.Fnt(]@Oberon10i.Scn.Fnt>F #$@(-+1X9q1>&9k)-$C<u(8 *   ."#-_b4=	%9(	P.)A"n,@*8S$(fBb,x2E*.6"a/.
-1$'!"5
-~L6>($HgN;)s238yhgS$	(&1=W]1
-|015F.M_4O'	<k6F5>jB1!%(5+bR;%iT$+Q@hE$*4/F+!>/_7k;I9oI)g6!.Z&'
-c(cm;Gn	2Y&`#(6&5?7C!+4-JK7QJ)"6-&s0cV'./:;t,Lw!
-&f7<c:&5C6C	%`%~9J0>olpc+4:!
-9|.x&H7
-Z#0K`bu2EPi=lS$+'uJg@0)Eq>P0c2:J4A	=$e\P_DVL*71DdE3m^)$4(JppnCT)V, )&A'!9\(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE MineSweeper;	(** portable *)	(*	 written by M.Daetwyler & P.Saladin		*)

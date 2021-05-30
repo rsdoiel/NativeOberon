@@ -1,4 +1,4 @@
-Oberon10.Scn.FntOberon12.Scn.Fntn0Oberon10b.Scn.Fntoop4(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Types;	(** non-portable *)     (* RC 16.1.92 / MH 30.8.93 adapted to Oberon for Windows *)

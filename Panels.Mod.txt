@@ -1,9 +1,4 @@
-Oberon10.Scn.FntOberon12.Scn.Fnt%&/
-c
-/d	)0h$+fOberon10b.Scn.Fnt	k.IC
-_%J3@;#&#"1c	
-_B?${q/Z 
-Oberon10i.Scn.Fnt(~(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Panels; (** portable *)	(* jm 19.1.95 *)

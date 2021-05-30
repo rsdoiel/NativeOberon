@@ -1,4 +1,4 @@
-[Oberon10.Scn.FntyxR(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE PSPrinter; (** portable *)	(*UNIX version: JT 11.5.90, RC 2.7.93,  JS 29.4.9, Windows version: jm 20.12.95 *)

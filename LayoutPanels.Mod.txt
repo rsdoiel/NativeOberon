@@ -1,7 +1,4 @@
-Oberon10.Scn.Fnt5qRX6OUJ&/OG*J35&m$# c
-E
-;axOberon10b.Scn.Fnt
-enA c(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE LayoutPanels; (** portable *)	(* ck 6.4.97 / ps 12.5.97 *)

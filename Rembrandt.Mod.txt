@@ -1,5 +1,4 @@
-Oberon10.Scn.FntOberon10b.Scn.FntT@RWq,[%"	M[P	@Z2
-b(8<xAf9Oberon12.Scn.Fnt	ijJ2&./#+4*04*0+)CE!<u1U0(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Rembrandt;	(** portable *)

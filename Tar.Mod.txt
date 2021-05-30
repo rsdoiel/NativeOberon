@@ -1,5 +1,4 @@
-_Oberon10.Scn.FntOberon10i.Scn.Fntb	?
-	(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Tar;	(** portable *)	(* Copyright (c) Jacques Supcik, 1995 / js 19.9.95, V4,  modified for S3 C.Hoffmann, 21.9.95 *)

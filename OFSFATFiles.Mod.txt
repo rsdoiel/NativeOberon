@@ -1,6 +1,4 @@
-Oberon10.Scn.Fntd)i4
-Oberon10b.Scn.Fnt2?B;Ie7=V44$33	XFY
- <v(hYF\Eq(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE OFSFATFiles;	(* be *)

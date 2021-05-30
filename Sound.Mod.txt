@@ -1,6 +1,4 @@
-Oberon10.Scn.FntOberon10i.Scn.Fnt:;?
-+0+.0FA#qE,4*:3'W*?)5	NMBlJ)"/_%p1"=,QE'<Y<iD-::%,YE'<Y<i<$B9<e9;747@D@G*A4 +C;d:^74*''|+<#%
-:F6S8B?39P;;767@D@H)A45.5?39p8@DL$I-+ Aq<B>38780-j.n*:,(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Sound;	(** non-portable *)	(** tb, SS96 *)

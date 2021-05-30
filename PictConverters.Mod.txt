@@ -1,5 +1,4 @@
-?Oberon10.Scn.Fnt
-l@,9(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE PictConverters;	(** portable *) (* rm 1.9.1996, ejz 8.12.96, afi 11.02.1997 *)

@@ -1,14 +1,4 @@
-0Oberon10.Scn.FntOberon10i.Scn.Fnt	#Oberon10b.Scn.FntL		
-	
-		! 						T	:>#	R}	%	%	1	J,	;/	&0	*1	*,	.+	%0	*	 )	$*	)	#			#			6	6	 	+	/	*	.3	$		)	.	,	
-	#	+	k			Q	+	 -	R	$D	8	)	4?	<	M			
-b		"<	%			 	
-%			-		)(	/		E		XG	3			N6	k	R		I.	&_	[		br	.		-		+	h	K	W	Wa	1	2	G	'(0+	!	
-L	RZ	y		8]	P		(
-	(V	G		(
-	(	7	&	$	%^C$	!i			'	P	6	
-.	2	c		4	#U	O	Y		!
-(	*		'		;**	4Rw(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 (*Swarm, Version 1.0 / BES October 96

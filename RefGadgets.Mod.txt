@@ -1,8 +1,4 @@
-TextDocs.NewDoc4FCColorFlatLockedControlsOrgKBIER`b3Oberon10.Scn.FntOberon12.Scn.Fnt1Oberon10i.Scn.Fnt9Oberon10b.Scn.Fnt5DFNH)IdD'"i*%l7%%% 7LW)6>!WH78$6'?BWa6!
- xNOberon12b.Scn.FntOberon12i.Scn.Fnt
-$
-X&
-"0eI'/=C'P(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE RefGadgets;	(** portable *)  (** PS  *)

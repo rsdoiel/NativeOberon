@@ -1,10 +1,4 @@
-Oberon10.Scn.FntmK
-P
-5G
-2P
-&	
-nU,)ey_6	E-	'#
-tp(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 (* OBERON System 3, Release 2.3. $VCS   1, Edgar.Schwarz@z.zgs.de, 25 Jul 99, 13:10:44 $

@@ -1,5 +1,4 @@
-Oberon10.Scn.Fnt%Oberon10b.Scn.FntOberon10i.Scn.Fnt	dp!bt%+#mC7$
-ms{	~y%$(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE VNCViewers;	(** Jrg Kreienbhl   **)

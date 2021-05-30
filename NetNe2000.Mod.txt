@@ -1,5 +1,4 @@
-#Oberon10.Scn.Fnt\~xl6|-0.
-7444664064<0:8<>04:>57x4K782*!r9d;GlGl@A61S?#-{2T:P= ]?PCP=8Q`S6c1>=U!E^JGXOaFFI;R#)8U:-"7R(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE NetNe2000;	(* Peter Ryser, 11.1.2000 *)

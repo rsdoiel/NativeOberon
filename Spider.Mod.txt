@@ -1,5 +1,4 @@
-Oberon10.Scn.FntOberon10b.Scn.FntOberon10i.Scn.FntT#Q'5<0TO7>48>BJO7>4C BP9@jDFR79hMD?DAQ/
-0%AjK(+F(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Spider;	(** portable *)	(** written by Patrick Saladin  *)

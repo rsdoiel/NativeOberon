@@ -1,4 +1,4 @@
-Oberon10.Scn.Fnt&o.0@A(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE HPPCL;  (*bh, ard 27.11.92  /  kr 23.12. 92 / 03.08.93 - js 4.8.0 *)

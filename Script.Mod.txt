@@ -1,5 +1,4 @@
-iOberon10.Scn.FntOberon10i.Scn.FntqC-}6<	F08q
-fHw"bJ8(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Script;	(** portable *)	(* RS, Wed, 9-Jun-1993*)

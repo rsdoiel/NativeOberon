@@ -1,15 +1,4 @@
-Oberon10.Scn.FntOberon10b.Scn.FntOberon10i.Scn.FntOberon12.Scn.FntJaa`f
-i=
-bad=6	a	4_3E*$73E3E3E4n= "
-n
-cWAIe	17
-S	\ML	2
-Vw
-:#%Co 7
-~$"\T4))Xo)h$7#E
-;*p
-= g	eXOberon12b.Scn.FntOberon12i.Scn.Fnt
-"	%#O(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE ScrollViews; (** portable *)	(** PS  **)

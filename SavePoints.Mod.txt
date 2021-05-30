@@ -1,6 +1,4 @@
-Oberon10.Scn.Fnt1
-64.!-0;	"!/		 .(-0 (
-6kFb.;"fe2![	U!"k*)"5X7U"6<(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 (* SavePoints

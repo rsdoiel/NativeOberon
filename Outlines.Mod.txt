@@ -1,7 +1,4 @@
-Oberon10.Scn.FntOberon10b.Scn.Fnt@{,2Q	>
->	
-<NfI8
-<W(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Outlines; (** portable *)	(*	code written by P. Saladin	June 1994/modified jm 14.12.94	*)	

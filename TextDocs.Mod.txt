@@ -1,6 +1,4 @@
-Oberon10.Scn.Fnt+\d=`=^A@`@^@E(Oberon10b.Scn.Fnt
-
-Oberon10i.Scn.Fnt!&d(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE TextDocs; (** portable *)	(** jm 1.2.95 / tk 1.6.95 *)

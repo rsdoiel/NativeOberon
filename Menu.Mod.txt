@@ -1,4 +1,4 @@
-_Oberon10.Scn.Fnt	Oberon10b.Scn.Fnt"(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE Menu;	(** portable *)	(* rs/uh, Wed, 7-Jul-1993 *)

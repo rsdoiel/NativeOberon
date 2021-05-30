@@ -1,4 +1,4 @@
-TextDocs.NewDoc$FCColorFlatLockedControlsOrgOBIER`b3#Oberon10.Scn.FntMODULE TeXTools;	(* pjm *)
+MODULE TeXTools;	(* pjm *)
 
 (** Simple text-based tools for TeX files. *)
 

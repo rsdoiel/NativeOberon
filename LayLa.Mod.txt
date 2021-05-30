@@ -1,4 +1,4 @@
-cOberon10.Scn.Fnt7Oberon10i.Scn.FntQOberon10b.Scn.FntL9(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE LayLa;	(** portable *)	(*	Jrg Derungs, 31.7.1996	*)

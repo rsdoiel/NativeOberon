@@ -1,5 +1,4 @@
-YOberon10.Scn.Fnt?/	$?QA(5dOberon10i.Scn.Fnt(Math12.Scn.Fnt-*../-.3$"+/.1,,/13/1+/..//.---##+./'&,4.#*.0-++-227'-5%%.2(++7/*-.')+*+*/
-?.?B[(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE HTMLDocs; (** portable *) (* ejz, Greek & Math support by afi *)

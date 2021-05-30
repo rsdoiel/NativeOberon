@@ -1,9 +1,4 @@
-Oberon10.Scn.FntOberon10i.Scn.Fnt`) k4GA	GD
-G'\Wa	a6k*	G	GAG~z	7@  / 2 u7& .	P
- 
-
-t7
-?A70Qc56vl]]\#Ph(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE TextGadgets; (** portable *)

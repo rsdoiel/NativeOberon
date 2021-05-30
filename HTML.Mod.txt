@@ -1,6 +1,4 @@
-Oberon10.Scn.Fnte	Gk3[#d
-i  ,X
-)(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
+(* ETH Oberon, Copyright 1990-2003 Computer Systems Institute, ETH Zurich, CH-8092 Zurich.
 Refer to the license.txt file provided with this distribution. *)
 
 MODULE HTML;	(** portable *) (* jm 26.8.94 *)
